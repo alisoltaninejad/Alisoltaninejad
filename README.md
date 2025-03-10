@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ali Soltani
+# 👋 Hi! I'm Ali Soltani
 
 💻 Just started my coding journey, learning and building step by step!  
 🎨 Interested in UI/UX and front-end development.  
