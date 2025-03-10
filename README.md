@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @alisoltaninejad
-- 🌱 I’m currently learning 😉
+# 👋 Hey there! I'm Ali Soltani
 
-<!---
-alisoltaninejad/alisoltaninejad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Just started my coding journey, learning and building step by step!  
+🎨 Interested in UI/UX and front-end development.  
+🚀 Exploring new technologies to find the best career path.  
+
+# 🔗 Connect with Me:
+
+- GitHub: alisoltaninejad
+- Anywhere: alisolinejad
