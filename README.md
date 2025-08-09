@@ -1,5 +1,5 @@
-# 👋 I'm Ali Soltani Nejad
+# 👋 Hi, I'm Ali Soltani Nejad
 
-💻 Just started my coding journey, learning and building step by step!  
-🎨 Interested in UI/UX and front-end development.  
-🚀 Exploring new technologies to find the best career path.  
+💻 Front-End Developer passionate about creating clean, responsive, and user-friendly web applications.  
+🎨 Enthusiastic about UI/UX design and crafting engaging digital experiences.  
+🚀 Always learning and building to deliver modern, high-quality solutions.
