@@ -4,19 +4,16 @@
 ---
 
 ### 🌟 About Me
-<div>
-  <a>
-<div>- 🔭 Working on modern, responsive web applications  </div>
-<div>- 🎨 Passionate about clean UI and engaging user experiences  </div>
-<div>- 🌱 Learning **React**, **Next.js**, and **TailwindCSS**  </div>
-<div>- ⚡ Love combining creativity with code to build meaningful products  </div>
-    </a>
-<a>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</a>
-</div>
 
----
+<p>
+  🔭 Working on modern, responsive web applications<br>
+  🎨 Passionate about clean UI and engaging user experiences<br>
+  🌱 Learning <b>React</b>, <b>Next.js</b>, and <b>TailwindCSS</b><br>
+  ⚡ Love combining creativity with code to build meaningful products
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" />
+</p>
+
+<br><br>
 
 ### 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5&logoColor=E34F26)
