@@ -1,14 +1,20 @@
-# 👋 Hi, I'm Ali Soltani Nejad  
+# 👋 Hi, I'm Ali Soltani Nejad 
 
-💻 Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Always Learning  
-
+#### 💻 Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Always Learning   
 ---
 
 ### 🌟 About Me
-- 🔭 Working on modern, responsive web applications  
-- 🎨 Passionate about clean UI and engaging user experiences  
-- 🌱 Learning **React**, **Next.js**, and **TailwindCSS**  
-- ⚡ Love combining creativity with code to build meaningful products  
+<div>
+  <a>
+<div>- 🔭 Working on modern, responsive web applications  </div>
+<div>- 🎨 Passionate about clean UI and engaging user experiences  </div>
+<div>- 🌱 Learning **React**, **Next.js**, and **TailwindCSS**  </div>
+<div>- ⚡ Love combining creativity with code to build meaningful products  </div>
+    </a>
+<a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</a>
+</div>
 
 ---
 
@@ -28,7 +34,8 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisoltaninejad&show_icons=true&theme=radical" width="300" style="display:inline-block;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alisoltaninejad&show_icons=true&theme=radical" width="335" style="display:inline-block;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoltaninejad&layout=compact&theme=radical" width="300" style="display:inline-block;"/>
 
 </div>
@@ -41,17 +48,17 @@
   <div>
     <a href="https://www.linkedin.com/in/ali-soltani-805942358">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="mailto:alisolinejad">
       <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://instagram.com/alisolinejad">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://t.me/alisolinejad">
       <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
   </div>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  
 </div>
