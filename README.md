@@ -5,15 +5,12 @@
 
 ### 🌟 About Me
 
-<p>
-  🔭 Working on modern, responsive web applications<br>
-  🎨 Passionate about clean UI and engaging user experiences<br>
-  🌱 Learning <b>React</b>, <b>Next.js</b>, and <b>TailwindCSS</b><br>
-  ⚡ Love combining creativity with code to build meaningful products
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left:20px; margin-bottom:10px;" />
 
-<br><br>
+🔭 Working on modern, responsive web applications<br>
+🎨 Passionate about clean UI and engaging user experiences<br>
+🌱 Learning **React**, **Next.js**, and **TailwindCSS**<br>
+⚡ Love combining creativity with code to build meaningful products
 
 ### 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5&logoColor=E34F26)
@@ -44,17 +41,21 @@
 
   <div>
     <a href="https://www.linkedin.com/in/ali-soltani-805942358">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
     <a href="mailto:alisolinejad">
       <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    </a>
+    &nbsp;&nbsp;
     <a href="https://instagram.com/alisolinejad">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    </a>
+    &nbsp;&nbsp;
     <a href="https://t.me/alisolinejad">
       <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    </a>
+    &nbsp;&nbsp;
   </div>
 
   
