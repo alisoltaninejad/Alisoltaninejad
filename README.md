@@ -42,19 +42,19 @@
 
   <div>
     <a href="https://www.linkedin.com/in/ali-soltani-805942358">
-     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+     <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-linkedin-48.png" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:alisolinejad">
-      <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" />
+       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-gmail-48.png" />
     </a>
     &nbsp;&nbsp;
     <a href="https://instagram.com/alisolinejad">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
+       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-instagram-logo-48.png" />
     </a>
     &nbsp;&nbsp;
     <a href="https://t.me/alisolinejad">
-      <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white" />
+      <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-telegram-48.png" />
     </a>
     &nbsp;&nbsp;
   </div>
