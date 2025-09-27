@@ -2,10 +2,11 @@
 
 #### 💻 Front-End Developer | 🎨 UI/UX Enthusiast | 🚀 Always Learning   
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="center" style="margin-left:20px; margin-bottom:10px;" />
 
 ### 🌟 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left:20px; margin-bottom:10px;" />
+
 
 🔭 Working on modern, responsive web applications<br>
 🎨 Passionate about clean UI and engaging user experiences<br>
