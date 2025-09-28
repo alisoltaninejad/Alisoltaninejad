@@ -15,14 +15,15 @@
 
 ### 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-333?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333?logo=mui&logoColor=007FFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&logoColor=7952B3)
 ![Git](https://img.shields.io/badge/-Git-333?logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-333?logo=figma)
-
 ---
 
 ### 📊 GitHub Stats
@@ -42,19 +43,19 @@
 
   <div>
     <a href="https://www.linkedin.com/in/ali-soltani-805942358">
-     <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-linkedin-48.png" />
+     <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-linkedin-48.png" width='40px'/>
     </a>
     &nbsp;&nbsp;
     <a href="mailto:alisolinejad">
-       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-gmail-48.png" />
+       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-gmail-48.png" width='40px'/>
     </a>
     &nbsp;&nbsp;
     <a href="https://instagram.com/alisolinejad">
-       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-instagram-logo-48.png" />
+       <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-instagram-logo-48.png" width='40px' />
     </a>
     &nbsp;&nbsp;
     <a href="https://t.me/alisolinejad">
-      <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-telegram-48.png" />
+      <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-telegram-48.png" width='40px' />
     </a>
     &nbsp;&nbsp;
   </div>
