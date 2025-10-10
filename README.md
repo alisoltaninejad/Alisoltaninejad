@@ -46,7 +46,7 @@
      <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-linkedin-48.png" width='40px'/>
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:alisolinejad">
+    <a href="mailto:alisolinejad@gmail.com">
        <img src="https://github.com/alisoltaninejad/Alisoltaninejad/blob/main/icons8-gmail-48.png" width='40px'/>
     </a>
     &nbsp;&nbsp;
