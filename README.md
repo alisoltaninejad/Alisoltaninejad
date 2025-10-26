@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-333?logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-333?logo=mui&logoColor=007FFF)
@@ -28,7 +29,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alisoltaninejad&show_icons=true&theme=radical" width="335" style="display:inline-block;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
