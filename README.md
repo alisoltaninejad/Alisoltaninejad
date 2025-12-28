@@ -10,7 +10,7 @@
 
 🔭 Working on modern, responsive web applications<br>
 🎨 Passionate about clean UI and engaging user experiences<br>
-🌱 Learning **React**, **Next.js**, and **TailwindCSS**<br>
+🌱 Learning **React** and **Next.js**
 ⚡ Love combining creativity with code to build meaningful products
 
 ### 🛠️ Skills & Tools
@@ -31,9 +31,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alisoltaninejad&show_icons=true&theme=radical" width="335" style="display:inline-block;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisoltaninejad&layout=compact&theme=radical" width="300" style="display:inline-block;"/>
+<a href="https://github.com/alisoltaninejad">
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=alisoltaninejad&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/alisoltaninejad">
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alisoltaninejad&layout=compact&theme=radical" />
+</a>
 
 </div>
 
