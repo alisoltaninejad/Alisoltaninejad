@@ -10,7 +10,7 @@
 
 🔭 Working on modern, responsive web applications<br>
 🎨 Passionate about clean UI and engaging user experiences<br>
-🌱 Learning **React** and **Next.js**
+🌱 Learning **React** and **Next.js**<br>
 ⚡ Love combining creativity with code to build meaningful products
 
 ### 🛠️ Skills & Tools
